@@ -1,0 +1,11 @@
+void inputArray(int x[],int n);
+void outputArray(int x[],int n);
+int minimo(int x[],int n);
+void sSort(int x[],int n);
+void insertSortedSort(int x[],int *n,int value);
+void insertionSort(int x[],int n);
+void bubbleSort(int x[],int n);
+int bubbleSort2(int x[],int n);
+int ricercaBin(int x[], int n,int el);
+int *inputArrayDyn(int *size,char *line);
+int *concatenaVet(int *a,int n,int *b,int m,int *size);
